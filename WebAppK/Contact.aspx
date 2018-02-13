@@ -4,7 +4,7 @@
     <h2><%: Title %>.</h2>
     <h3>Your contact page.</h3>
     <address>
-        Pico Creative Building <br />
+        Pico Creative Building Edit by Ko Ko<br />
         20 Kalang Way<br />
         <abbr title="Phone">P:</abbr>
         425.555.0100
